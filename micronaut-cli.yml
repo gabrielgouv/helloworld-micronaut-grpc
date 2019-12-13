@@ -1,0 +1,5 @@
+profile: grpc
+defaultPackage: helloworld
+---
+testFramework: junit
+sourceLanguage: java
